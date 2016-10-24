@@ -8,7 +8,9 @@ import java.util.ArrayList;
  * Henrichsen * @version 1.0 10/14/15
  */
 public class Chatbot
-{
+{	
+	
+	
 	private ArrayList<String> memesList;
 	private ArrayList<String> politicalTopicList;
 	private String userName;
